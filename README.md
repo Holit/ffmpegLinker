@@ -23,7 +23,7 @@ English
 * Basic operation (Debug)
    * Windows 10 Enterprise x64
    * .NET Framework 4.6.1
-   * [ffmpeg] (https://ffmpeg.org/download.html)
+   * [ffmpeg](https://ffmpeg.org/download.html)
 ---------
 * Purpose
 Run ffmpeg by flattening the command line and simplify the operation through the GUI visual screen
